@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastSender</string>
+    <string name="permission_label">App permission</string>
+    <string name="permission_desc">Permission to receive broadcasts from this app</string>
+</resources>
