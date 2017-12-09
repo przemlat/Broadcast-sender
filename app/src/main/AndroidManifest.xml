@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.przemek.broadcastsender">
     <permission android:name="com.example.przemek.broadcastsender.PERMISSION"
-        android:protectionLevel="signature"
+        android:protectionLevel="dangerous"
         android:label="@string/permission_label"
         android:description="@string/permission_desc">
     </permission>
